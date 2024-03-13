@@ -70,8 +70,7 @@ Explore a world of cutting-edge scripts and unparalleled support tailored just f
 - **Customization Guidance:** Get expert guidance on customizing scripts to align with your specific requirements.
 - **Exclusive Access:** Unlock exclusive resources and documentation to maximize the potential of your scripts.
 
-## 🌐 Visit Our Platform:
-Ready to elevate your digital ventures? Head over to [BotDigit.com/Eckmar](https://botdigit.com/user/Eckmar) for a seamless experience. Discover the power of premium scripts and personalized support.
+
 
 ## 🤝 Join Eckmar's Digital Revolution – Where Innovation Meets Support!
 
